@@ -8,4 +8,4 @@ second test deployment using deployhq
 
 third test deployment using deployhq
 
-automatic deployment
+auto deployment
