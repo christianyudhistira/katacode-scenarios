@@ -10,4 +10,4 @@ third test deployment using deployhq
 
 auto deployment
 
-testt
+test
