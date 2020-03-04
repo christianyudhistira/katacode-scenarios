@@ -1,7 +1,7 @@
 {
   "pathwayTitle": "exercise02",
   "icon": "fa-docker",
-  "title": "Running your first Docker container",
+  "title": "Running your first Docker containers",
   "time": "10 minutes",
   "description": "Learn how to install Docker and run your first container",
   "details": {
