@@ -10,4 +10,4 @@ third test deployment using deployhq
 
 auto deployment
 
-test push to katacoda
+test push to personal webhooks
