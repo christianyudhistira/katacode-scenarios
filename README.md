@@ -10,4 +10,4 @@ third test deployment using deployhq
 
 auto deployment
 
-test push to personal webhooks
+test push
