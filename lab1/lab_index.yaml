@@ -1,0 +1,14 @@
+---
+title: Lab 1
+time: 5 minutes
+description: the first lab on the sample course
+details:
+  intro:
+    text: introduction.html
+  steps:
+  - title: task 1 step
+    text: task_1.html
+  - title: task 2 step
+    text: task_2.html
+  finish:
+    text: finish.html

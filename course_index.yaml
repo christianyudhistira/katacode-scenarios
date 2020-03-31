@@ -1,0 +1,11 @@
+---
+title: Sample Course
+icon: fa-docker
+description: Learn how to create course in Onpit
+labs:
+  - lab_id: /lab1
+    title: Lab 1
+    description: the first lab on the sample course
+  - lab_id: /lab2
+    title: Lab 2
+    description: the second lab on the sample course
