@@ -6,7 +6,9 @@ labs:
   - title: Lab 1
     description: the first lab on the sample course
     directory: /lab1
+    number_of_tasks: 2
   - title: Lab 2
     description: the second lab on the sample course
     directory: /lab2
+    number_of_tasks: 2
     
